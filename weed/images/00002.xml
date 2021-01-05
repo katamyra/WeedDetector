@@ -1,0 +1,39 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00002.jpg</filename>
+	<path>C:\Code\Python\Mask_RCNN\weed\images\00002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>1161</ymin>
+			<xmax>1017</xmax>
+			<ymax>1900</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2265</xmin>
+			<ymin>1777</ymin>
+			<xmax>2889</xmax>
+			<ymax>2461</ymax>
+		</bndbox>
+	</object>
+
+</annotation>
