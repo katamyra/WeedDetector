@@ -3,7 +3,6 @@ Model that trains weed detection through a dataset and saved the model as pre-tr
 
 ---
 ![alt text](https://i.imgur.com/sHqbMdb.png "Weed Detection Image")
----
 
 ## WeedDetector.py
 Weeddetector.py is the main script. This script helped to train the model. It contains the WeedDetector Class that helps train the model and saves the model once it is trained as an .h5 file.
