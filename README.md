@@ -7,8 +7,8 @@ Model that trains weed detection through a dataset and saved the model as pre-tr
 ## WeedDetector.py
 Weeddetector.py is the main script. This script helped to train the model. It contains the WeedDetector Class that helps train the model and saves the model once it is trained as an .h5 file.
 
-## Mask_RCNN.trained_weed_detector.h5
-This is the actual .h5 (Hierarchical Data Format 5 File), which acts as pre-trained weights so that anyone can use the model that I trained.
+## PretrainedWeightUrl.txt
+This is the actual .h5 (Hierarchical Data Format 5 File), which acts as pre-trained weights so that anyone can use the model that I trained. Because the pre-trained weights are a very large file size, GitHub doesn't support uploading these files. As a result, I uploaded the .h5 onto mediafire for anyone to use. 
 
 ## Weed
 The weed folder is a folder that contains a sample of the dataset used to train the model. For each image in the folder, there is a respective .XML file. Upon viewing any of the .XML files, you can see that there are bounding boxes for each weed, with minimum and maximum x and y values.
