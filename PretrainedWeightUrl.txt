@@ -1,0 +1,2 @@
+Because the pre-trained weights are a very large file size, GitHub doesn't support uploading these files. As a result, I uploaded the .h5 onto mediafire for anyone to use. 
+Url: https://www.mediafire.com/file/5h4re3vmk6aqln5/Mask_RCNN.1609520996.5985641.h5/file
