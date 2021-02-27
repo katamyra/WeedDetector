@@ -22,7 +22,7 @@ from xml.etree import ElementTree as ET
 
 class WeedConfig(Config):
     # Give the configuration a recognizable name
-    NAME = "weed_detection"
+    NAME = "weed_detection" 
     
     NUM_CLASSES = 1 + 1 # background + classes
 
